@@ -35,7 +35,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "https://github.com/swayable/passport-oauth2.git"
   },
   "devDependencies": {
     "make-node": "0.4.6",
